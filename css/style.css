@@ -1,0 +1,35 @@
+h1 {
+    color: orange !important; /* important es una mala practica, solo se usa en casos extremos o en el body */
+}
+
+h2 {
+    color: peru;
+}
+
+#articulo-2 {
+    color: green;
+}
+
+.texto-morado {
+    color: purple;
+}
+
+.texto-dorado {
+    color: gold;
+}
+
+.texto-cafe {
+    color: brown;
+}
+
+.texto-azul {
+    color: blue;
+}
+
+.texto-rojo {
+    color: crimson;
+}
+
+.texto-azul-cyan {
+    color: cyan;
+}
