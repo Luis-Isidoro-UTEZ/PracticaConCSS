@@ -12,24 +12,36 @@ h2 {
 
 .texto-morado {
     color: purple;
+    font-size: 24px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 .texto-dorado {
     color: gold;
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
 }
 
 .texto-cafe {
     color: brown;
+    font-size: 18px;
+    font-family: 'Lucida Console', 'Courier New', monospace;
 }
 
 .texto-azul {
     color: blue;
+    font-size: 16px;
+    font-family: 'Times New Roman', Times, serif;
 }
 
 .texto-rojo {
     color: crimson;
+    font-size: 14px;
+    font-family: 'Georgia', serif;
 }
 
 .texto-azul-cyan {
     color: cyan;
+    font-size: 12px;
+    font-family: 'Verdana', sans-serif;
 }
